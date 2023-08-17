@@ -46,13 +46,13 @@ git@2.17.1 or higher
 1. Fork this repoistory and clone it to your local machine.
 
 ```bash
-$ git clone https://github.com/<your-username>/mike-portfolio.git
+$ git clone https://github.com/<your-username>/leeport.git
 ```
 
 2. Go into the repository
 
 ```bash
-$ cd mike-portfolio
+$ cd leeport
 ```
 
 3. Install dependencies
@@ -101,7 +101,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 ## For the Future
 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/devmrwor/mike-portfolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/devmrwor/leeport/pulls).
 
 -   Enable Dark Mode
 
@@ -109,7 +109,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Michael Ryan**
+👤 **ZhuChong Lee**
 
 -   Website: https://mike-portfolio.pages.dev
 -   Github: [@devmrwor](https://github.com/devmrwor)
