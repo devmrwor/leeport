@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to mike-portfolio 👋</h1>
+<h1 align="center">Welcome to Lee-portfolio 👋</h1>
 <a href="https://github.com/mjtechworks/mike-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/mjtechworks/mike-portfolio"></a><a href="https://github.com/mjtechworks/mike-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mjtechworks/mike-portfolio"></a><a href="https://github.com/mjtechworks/mike-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mjtechworks/mike-portfolio"></a> <a href="https://github.com/mjtechworks/mike-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mjtechworks/mike-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
@@ -9,13 +9,13 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://ef5cda4a.mike-portfolio.pages.dev/)**.
+## To view a live example, **[click here](https://leeport-devmrwor.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/mjtechworks/mike-portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/devmrwor/leeport/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/mjtechworks/mike-portfolio/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/devmrwor/leeport/pulls).
 
 ## Sections
 
@@ -111,7 +111,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **ZhuChong Lee**
 
--   Website: https://mike-portfolio.pages.dev
+-   Website: https://leeport-devmrwor.vercel.app/
 -   Github: [@devmrwor](https://github.com/devmrwor)
 
 ## Show your support
